@@ -1,0 +1,171 @@
+{
+  "title": "WiKo Sägen und Feilen",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Welche Arten von Feilen unterscheidet man nach der Zahnherstellung?",
+      "required": 2,
+      "options": {
+        "A": "Schlichtfeilen",
+        "B": "Schruppfeilen",
+        "C": "gehauene Feilen",
+        "D": "Raspel für Holz",
+        "E": "gefräste Feilen"
+      },
+      "correct": [
+        "C",
+        "E"
+      ],
+      "theme": "Arten Feilen"
+    },
+    {
+      "id": 2,
+      "question": "Welche Aussagen treffen über das Feilen zu?",
+      "required": 3,
+      "options": {
+        "A": "Feilen ist ein spanendes Verfahren",
+        "B": "Feilen ist ein umformendes Verfahren",
+        "C": "die Schnittbewegung wird durch das Werkzeug ausgeführt",
+        "D": "Hiebteilung ist der Abstand von einem Hieb zum Anderen",
+        "E": "gehauene Feilen haben einen positiven Spanwinkel"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "theme": "Grundlagen Feilen"
+    },
+    {
+      "id": 3,
+      "question": "Welche Querschnittsformen gibt es bei Feilen?",
+      "required": 2,
+      "options": {
+        "A": "Flachstumpffeile",
+        "B": "Pyramidenfeile",
+        "C": "Nagelfeile",
+        "D": "Schlichtfeile",
+        "E": "Rundfeile"
+      },
+      "correct": [
+        "A",
+        "E"
+      ],
+      "theme": "Querschnittsformen"
+    },
+    {
+      "id": 4,
+      "question": "Welche Regel gilt für die Auswahl der Feilen nach der Hiebteilung?",
+      "required": 2,
+      "options": {
+        "A": "harter Werkstoff - weiche Feile",
+        "B": "weicher Werkstoff - harte Feile",
+        "C": "harter Werkstoff - kleine Hiebteilung",
+        "D": "weicher Werkstoff - große Hiebteilung",
+        "E": "weicher Werkstoff - kleine Hiebteilung"
+      },
+      "correct": [
+        "C",
+        "D"
+      ],
+      "theme": "Hiebteilung Auswahl"
+    },
+    {
+      "id": 5,
+      "question": "Schrupp- und Schlichtfeilen unterscheiden sich voneinander durch:",
+      "required": 1,
+      "options": {
+        "A": "die Größe",
+        "B": "die Querschnittsform",
+        "C": "Farbmarkierung an der Angel",
+        "D": "Herstellverfahren",
+        "E": "die Hiebweite"
+      },
+      "correct": [
+        "E"
+      ],
+      "theme": "Schrupp vs Schlicht"
+    },
+    {
+      "id": 6,
+      "question": "Den Abstand von Zahnspitze zu Zahnspitze am Sägeblatt nennt man:",
+      "required": 1,
+      "options": {
+        "A": "Zahnform",
+        "B": "Zahnabstand",
+        "C": "Zahnteilung",
+        "D": "Zahnweite",
+        "E": "Zahnbreite"
+      },
+      "correct": [
+        "C"
+      ],
+      "theme": "Sägen Grundlagen"
+    },
+    {
+      "id": 7,
+      "question": "Wie ist das Werkstück beim Sägen einzuspannen?",
+      "required": 1,
+      "options": {
+        "A": "die Schnittlinie soll so nah wie möglich am Schraubstock sein und senkrecht nach unten verlaufen",
+        "B": "die Schnittlinie soll weit entfernt vom Schraubstock sein",
+        "C": "die Schnittlinie soll waagrecht verlaufen",
+        "D": "die Lage der Schnittlinie ist ohne Bedeutung",
+        "E": "die Schnittlinie sollte immer auf der Anrisslinie verlaufen"
+      },
+      "correct": [
+        "A"
+      ],
+      "theme": "Einspannen Sägen"
+    },
+    {
+      "id": 8,
+      "question": "Das Anbringen einer Führungskerbe ist ............",
+      "required": 1,
+      "options": {
+        "A": "nicht erforderlich",
+        "B": "ca 15 mm von der Anrisslinie entfernt anzubringen",
+        "C": "auf der Werkstückseite anzubringen",
+        "D": "auf der Abfallseite, dicht neben der Anrisslinie anzubringen",
+        "E": "ist nur bei komplizierten Teilen erforderlich"
+      },
+      "correct": [
+        "D"
+      ],
+      "theme": "Führungskerbe"
+    },
+    {
+      "id": 9,
+      "question": "Was versteht man unter dem Begriff „Freischneiden“?",
+      "required": 1,
+      "options": {
+        "A": "das Sägen mit einem lose eingespannten Sägeblatt",
+        "B": "das Sägen ohne vorheriges Anreißen des Werkstückes",
+        "C": "die Eigenschaft, dass die Sägefuge breiter wird als das Sägeblatt, um somit ein Festklemmen des Sägeblattes in der Fuge zu vermeiden",
+        "D": "das Sägen mit einem lose eingespannten Werkstück",
+        "E": "das Sägen einfacher Werkstücke ohne Führungskerbe"
+      },
+      "correct": [
+        "C"
+      ],
+      "theme": "Freischneiden"
+    },
+    {
+      "id": 10,
+      "question": "Welche Eigenschaften des Sägeblattes ermöglicht ein Freischneiden?",
+      "required": 2,
+      "options": {
+        "A": "Wellen",
+        "B": "Schränken",
+        "C": "Kreuzen",
+        "D": "Abschleifen",
+        "E": "Versetzen"
+      },
+      "correct": [
+        "A",
+        "B"
+      ],
+      "theme": "Freischneiden Eigenschaften"
+    }
+  ]
+}
